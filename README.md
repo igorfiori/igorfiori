@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @igorfiori
 
-I’m Igor Fiori, student pursuing a degree in Superior Technology in Systems Analysis and Development. I have a strong passion for various professional areas, including:
+I’m Igor Fiori, student Technology in Systems Analysis and Development. I have a strong passion for various professional areas, including:
 
 - **Software Development**: Building robust and scalable applications.
 - **Data Analysis**: Extracting insights from data to drive decision-making.
@@ -24,7 +24,7 @@ I’m Igor Fiori, student pursuing a degree in Superior Technology in Systems An
 - **LinkedIn**: https://www.linkedin.com/in/igor-fiori-779589251/
 
 
-## ⚡ I love exploring new technologies and keeping up with the latest trends in the tech world!
+## ⚡ I love exploring new technologies and studying them!
 
 <!---
 igorfiori/igorfiori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
